@@ -40,7 +40,7 @@ git clone https://github.com/your-username/react-drum-machine.git
 ## Author
 
 - Your Name
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- GitHub: [Your GitHub Profile](https://github.com/MoeJaafar)
 
 ## License
 
